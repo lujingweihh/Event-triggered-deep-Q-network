@@ -28,5 +28,3 @@ Investigate the problem of event-triggered deep reinforcement learning with disc
   year={2023}
 }
 ```
-# Event-triggered-deep-Q-network
-# Event-triggered-deep-Q-network
