@@ -1,7 +1,7 @@
 # Event-triggered deep Q-network (ETDQN) for Autonomous Driving
 ********
 Code for paper:   
-[J. Lu, L. Han, Q. Wei, X. Wang, X. Dai, F.-Y. Wang. Event-triggered deep reinforcement learning using parallel control: A case study in autonomous driving. *IEEE Transactions on Intelligent Vehicles*. 2023, doi: 10.1109/TIV.2023.3262132.](https://ieeexplore.ieee.org/document/10081497)
+[J. Lu, L. Han, Q. Wei, X. Wang, X. Dai, F.-Y. Wang. Event-triggered deep reinforcement learning using parallel control: A case study in autonomous driving. *IEEE Transactions on Intelligent Vehicles*, early access, 2023, doi: 10.1109/TIV.2023.3262132.](https://ieeexplore.ieee.org/document/10081497)
 <br/>
 
 ## Description
